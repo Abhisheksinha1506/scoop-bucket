@@ -1,0 +1,22 @@
+{
+    "version": "1.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/abhisheksinha1506/lightsout/releases/download/v1.1.2/lightsout_1.1.2_windows_amd64.zip",
+            "bin": [
+                "lightsout.exe"
+            ],
+            "hash": "0daa6c676ea425d232cf34c033811d813efcc6dfd2adf8cf64687f6616fa26ec"
+        },
+        "arm64": {
+            "url": "https://github.com/abhisheksinha1506/lightsout/releases/download/v1.1.2/lightsout_1.1.2_windows_arm64.zip",
+            "bin": [
+                "lightsout.exe"
+            ],
+            "hash": "ddfa34c6ea4be2e6dd3fc9bade79a6801b00b0f4062613b3bc5b9f137528efd9"
+        }
+    },
+    "homepage": "https://github.com/abhisheksinha1506/lightsout",
+    "license": "MIT",
+    "description": "Quit all open apps with one command, without force-killing."
+}
